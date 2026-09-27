@@ -1,0 +1,24 @@
+# Private financial data exports
+*.csv
+*.xlsx
+*.xls
+
+# Operating System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Node / local server logs
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
